@@ -1,0 +1,4 @@
+1.I was unable to complete the phase in the given time.
+2.I  was unable to do data forwarding 
+3.My logic is I used multithreading and assigned a thread to each pipeline stage 
+4.After each stall I will start from instruction fetch and do the whole process again and stall is incremented
